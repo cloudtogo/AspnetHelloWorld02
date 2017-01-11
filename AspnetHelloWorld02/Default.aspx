@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>CloudToGo</h1>
-        <p class="lead"> This Aspnet site is deployed by CloudToGo Factory with aspnet BuildPack, try login please ... </p>
+        <p class="lead"> This Aspnet site is deployed by CloudToGo Factory with aspnet BuildPack, try try login ... </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 </asp:Content>
