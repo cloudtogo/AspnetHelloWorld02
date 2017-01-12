@@ -51,7 +51,7 @@ namespace AspnetHelloWorld02.Account
                         break;
                     case SignInStatus.Failure:
                     default:
-                        FailureText.Text = "Invalid login attempt -- hahahahaha";
+                        FailureText.Text = "Invalid login attempt -- hahahahaha, hello, how are you";
                         ErrorMessage.Visible = true;
                         break;
                 }
