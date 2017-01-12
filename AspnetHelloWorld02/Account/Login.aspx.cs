@@ -51,7 +51,7 @@ namespace AspnetHelloWorld02.Account
                         break;
                     case SignInStatus.Failure:
                     default:
-                        FailureText.Text = "Invalid login attempt -- Msg from CloudToGo";
+                        FailureText.Text = "Invalid login attempt -- hahahahaha";
                         ErrorMessage.Visible = true;
                         break;
                 }
