@@ -29,7 +29,7 @@ namespace AspnetHelloWorld02.Account
             {
                 FailureText.Text = "Invalid login attempt -- hahahahaha, hello, how are you";
                 ErrorMessage.Visible = true;
-                return
+                return;
                 // Validate the user password
                 var manager = Context.GetOwinContext().GetUserManager<ApplicationUserManager>();
                 var signinManager = Context.GetOwinContext().GetUserManager<ApplicationSignInManager>();
