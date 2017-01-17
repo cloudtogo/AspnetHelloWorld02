@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>CloudToGo - This is Version 0.2 - Shenzhen Only </h1>
+        <h1>CloudToGo - This is Version 0.3 ， Welcome Shuangge </h1>
         <p class="lead"> This Aspnet site is deployed by CloudToGo Factory with aspnet BuildPack, please try login and see the error message. </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
